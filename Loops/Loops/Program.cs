@@ -46,8 +46,11 @@ namespace Loops
                 counter++;
             } while (counter <= 7);
 
+            Console.WriteLine("End of Do While Loop");
             Console.ReadLine();
 
+           
+         
             
         
 
